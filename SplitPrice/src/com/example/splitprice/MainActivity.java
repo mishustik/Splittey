@@ -159,6 +159,7 @@ public class MainActivity extends Activity {
 		switch(requestCode) {
 	    	case (REQUEST_LOCATION): {
 	    		if (resultCode == Activity.RESULT_OK) {
+	    			searchView.setQuery("", false);
 	    			GeoPoint tempGP = (GeoPoint) data.getParcelableExtra("location");
 	    			String tempDP = data.getStringExtra("name");
 	    			listOfAddresses.add(tempDP);

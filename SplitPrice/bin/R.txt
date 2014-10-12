@@ -435,8 +435,9 @@ int drawable ic_plusone_medium_off_client 0x7f0200d0
 int drawable ic_plusone_small_off_client 0x7f0200d1
 int drawable ic_plusone_standard_off_client 0x7f0200d2
 int drawable ic_plusone_tall_off_client 0x7f0200d3
-int drawable marker 0x7f0200d4
-int drawable selector_run_button 0x7f0200d5
+int drawable icon2 0x7f0200d4
+int drawable marker 0x7f0200d5
+int drawable selector_run_button 0x7f0200d6
 int id action_bar 0x7f070024
 int id action_bar_activity_content 0x7f07001d
 int id action_bar_container 0x7f070023

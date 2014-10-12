@@ -1509,8 +1509,9 @@ containing a value of this type.
         public static final int ic_plusone_small_off_client=0x7f0200d1;
         public static final int ic_plusone_standard_off_client=0x7f0200d2;
         public static final int ic_plusone_tall_off_client=0x7f0200d3;
-        public static final int marker=0x7f0200d4;
-        public static final int selector_run_button=0x7f0200d5;
+        public static final int icon2=0x7f0200d4;
+        public static final int marker=0x7f0200d5;
+        public static final int selector_run_button=0x7f0200d6;
     }
     public static final class id {
         public static final int action_bar=0x7f070024;
