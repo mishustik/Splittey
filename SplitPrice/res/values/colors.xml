@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Run button -->   
+	<color name="rb_stroke">#FFFFFFFF</color>
+	<color name="rb_inside_gradient_from">#FFDBDDF5</color>
+	<color name="rb_inside_gradient_to">#FF9396A6</color>
+	<color name="rb_text">#FF004D72</color>
+	<color name="rb_text_glow">#FF0093E1</color>
+	<color name="rb_gradient_pressed_from">#FF9396A6</color>
+	<color name="rb_gradient_pressed_to">#FFDBDDF5</color>
+	<color name="rb_text_disabled">#FF5A595E</color>
+	<color name="rb_text_glow_disabled">#FF5A595E</color>
+	
+	<!-- SearchView colors -->
+    <color name="sv_gradient_from">#FF3C4344</color>
+    <color name="sv_gradient_to">#FF000000</color>
+    <color name="sv_gradient_accepted_from">#F00093E1</color>
+    <color name="sv_gradient_accepted_to">#F000B8EF</color>
+    <color name="sv_stroke">#FF6450</color>
+	
+</resources>	

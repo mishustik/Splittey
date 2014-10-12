@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SplitPrice</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- Search -->
+    <string name="action_search">Search</string>
+    <string name="action_location_found">Location Found</string>
+    <string name="activity_map">Map</string>
+    <string name="search_hint">Add address</string>
+    <string name="activity_search">Search Activity</string>
+
+</resources>
